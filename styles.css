@@ -1,0 +1,36 @@
+
+body{
+  background-color:lavender;
+}
+
+
+
+
+.form-control {
+  display: inline-block;
+  width: 250px;
+  margin-top: 50px;
+}
+
+.sideleft {
+  width: 160px; 
+  position:fixed; 
+  z-index: 1; 
+  top: 0; 
+  left: 0; 
+  padding-top: 220px;
+}
+
+.jumbotron {
+  margin-top:10px;
+  background-image:url("http://clipartstation.com/wp-content/uploads/2017/11/galaxy-clipart-3.jpg");
+  background-size:cover;
+  color:white;
+}
+
+table {
+  table-layout: fixed;
+  
+}
+
+
